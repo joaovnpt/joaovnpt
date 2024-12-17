@@ -1,4 +1,4 @@
-## Hello! My I'm João Vitor
+## Hello! I'm João Vitor
 
 <div>
   <a href="https://beacons.ai/joaovnpt">
