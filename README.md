@@ -10,9 +10,3 @@ My name is João Vitor Guiotti, I'm 18 years old and I'm currently in high schoo
 
 ### 📘 Languages and Technologies
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="=Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"> <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-  <br/>
-
-### 📊 Statistics
-
-<img align="left" alt="Github Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovnpt&langs_count=12&layout=donut&size_weight=0&count_weight=1&hide=c++,roff,fortran,powershell,c,meson,cython,batchfile" />
