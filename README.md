@@ -1,7 +1,3 @@
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=5783eb&center=true&vCenter=true&random=false&width=524&lines=👨🏻‍💻João+Guiotti+-+Web+Developer+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-
 **`Web Developer`**
 
 My name is João Vitor Guiotti, I'm 18 years old and I'm currently in high school with an IT technical course for the Web.
