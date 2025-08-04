@@ -1,6 +1,9 @@
-**`Web Developer`**
-
-My name is João Vitor Guiotti, I'm 18 years old and I'm currently in high school with an IT technical course for the Web.
+<h2 align="center">João Guiotti</h2>
+**`Student and Web Developer`**
+<div>
+  - Cursando ensino médio com técnico em Informática para a Internet (2/3)🕑
+  - Frontend, backend, UI/UX
+</div>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=5783eb&color=fcfaf5)](mailto:joaovitorguiotti8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5783eb&color=fcfaf5)](https://www.linkedin.com/in/jo%C3%A3o-vitor-5825b0299/)
