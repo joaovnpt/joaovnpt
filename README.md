@@ -15,7 +15,7 @@
 
 ### 💬 Connect with me
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=5783eb&color=fcfaf5)](mailto:joaovitorguiotti8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/SEU_USUARIO](https://www.linkedin.com/in/jo%C3%A3o-vitor-5825b0299/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-vitor-5825b0299/)
 
 
 ##
